@@ -277,4 +277,5 @@ CONFIG_PACKAGE_mount-utils=y
 CONFIG_PACKAGE_runc=y
 CONFIG_PACKAGE_tini=y
 CONFIG_PACKAGE_luci-app-godproxy=y
+CONFIG_PACKAGE_luci-app-bypass=y
 EOF
