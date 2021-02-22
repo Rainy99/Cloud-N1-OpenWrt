@@ -23,3 +23,5 @@ cp -r package-temp/small/* package/lean/
 mv -f package-temp/lua-maxminddb package/lean/
 mv -f package-temp/luci-app-vssr package/lean/
 rm -rf package-temp
+
+git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
