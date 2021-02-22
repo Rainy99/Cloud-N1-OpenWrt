@@ -1,6 +1,6 @@
 #!/bin/bash
 cd openwrt
-# wireless
+# wireless#
 #rm -rf files/etc/config/wireless
 #rm -rf files/etc/modules.d/wireless_enable
 # Add luci-app-openclash
