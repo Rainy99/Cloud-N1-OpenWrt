@@ -99,4 +99,4 @@ jobs:
       if: steps.organize.outputs.status == 'success' && !cancelled()
       with:
         name: OpenWrt_firmware
-        path: openwrt/bin
+        path: ./bin
